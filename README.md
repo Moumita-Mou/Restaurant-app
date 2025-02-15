@@ -1,6 +1,3 @@
-Here’s a fitting README for your **Restaurant App** repository:
-
----
 
 # Restaurant App
 
